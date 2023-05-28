@@ -22,10 +22,11 @@ The notebook has the following sections:
 - Visualize the results
 ## Results
 The GAN was able to learn the mapping between the satellite images and the corresponding terrain height maps. The generated terrain height maps are smooth and exhibit similar features to the real terrain height maps.
+![image](https://github.com/Ankitkumar803/Satellite-Images-to-Terrain-using-GANs/assets/78913240/355be88b-2e1c-4cf3-a33f-b0f5470b6fe5)
 
-##Conclusion
+## Conclusion
 In this notebook, we have demonstrated how to use GANs to generate terrain height maps from satellite images. We have used a modified version of the pix2pix GAN architecture and trained it on a small subset of the SRTM dataset. The results show that the GAN is able to generate realistic terrain height maps from satellite images.
 
-##References
+## References
 - [Generative Adversarial Networks (GANs)](https://en.wikipedia.org/wiki/Generative_adversarial_network)
 - [Image-to-Image Translation with Conditional Adversarial Networks (pix2pix)](https://arxiv.org/abs/1611.07004)
